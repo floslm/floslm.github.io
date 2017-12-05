@@ -6,15 +6,13 @@ description: [The Open Source lebanese movement @ Lebanon lb]
 # sidebar links url
 links:
   #download: https://github.com/javaee/
-  source: http://oslm.cofares.net
-  Java Tutorials : http://java.cofares.net
-  LJUG : http://ljug.cofares.net
+  source: http://oslm.cofares.net 
   #mailinglist:
-  #javadocs:
-  #docs:
+  javadocs: http://java.cofares.net
+  docs:  http://ljug.cofares.net
   #faq:
   #mailinglist:
-  hide_issuetracker: true
+  hide_issuetracker: false
 
 sidebar:
   nav: "docs"
