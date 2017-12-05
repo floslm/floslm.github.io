@@ -1,0 +1,24 @@
+theme: jekyll-theme-architect
+
+title: [Free Libre Open Source Lebanon]
+description: [The Open Source lebanese movement @ Lebanon lb]
+
+# sidebar links url
+links:
+  #download: https://github.com/javaee/
+  source: http://oslm.cofares.net
+  Java Tutorials : http://java.cofares.net
+  LJUG : http://ljug.cofares.net
+  #mailinglist:
+  #javadocs:
+  #docs:
+  #faq:
+  #mailinglist:
+  hide_issuetracker: true
+
+author: Pascal Fares
+
+author_email: pascal.fares@cofares.net
+
+google_analytics: UA-24954673-1
+  
