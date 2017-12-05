@@ -16,6 +16,18 @@ links:
   #mailinglist:
   hide_issuetracker: true
 
+sidebar:
+  nav: "docs"
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Open Source Lebense Mobement: "http://oslm.cofares.net/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://www.cofares.net"
+
+
 author: Pascal Fares
 
 author_email: pascal.fares@cofares.net
